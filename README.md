@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **manuel-salazar1/manuel-salazar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Search for me on LinkedIn or anywhere else you can find me. 
 - 😄 
 - ⚡ Fun fact: I ran my first marathon in Decemeber of 2022. It's was one of the hardest things I've ever done physically and I grew mentally! 
--->
+
 
 
 TEST
